@@ -25,15 +25,23 @@ a {
 	text-decoration-style: solid;
 	text-decoration-color: currentcolor;
 	color: white;
+	border-radius: 8px ;
+}
+
+.menu a:hover {
+
+				background-color: white;
+				color: #FF85BF;
 }
 
 .contenedor {
 			border-style: solid ; 
-			border-width: 5px;
+			border-width: 6px;
 			border-color:  #FF85BF ;
+			border-radius: 10px ;
 
 			margin: 70px ;
-			background-color: #FFEAEE ;
+			background-color: white ;
 			text-align: center ;
 			padding: 50px ;
 			}
@@ -42,10 +50,12 @@ a {
 	border-width: 5px ;
 	border-style: solid ;
 	border-color: #FF85BF ;
+	border-radius: 10px;
 }
 
 .tyler {
 	font-family: montserrat;
+
 }
 
 span {
