@@ -9,6 +9,12 @@ body {
 		margin: auto ;
 }
 
+.header img {
+	border-width: 3px ;
+	border-style: hidden;
+	border-radius: 8px;
+}
+
 .menu {
 	background-color: #FF85BF;
 	border-radius: 8px;
