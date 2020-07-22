@@ -3,7 +3,7 @@
 */
 body {
 	background-color: #FFB3E6 ;
-	font-size: 15px;
+	
 }
 
 .header {
@@ -63,11 +63,11 @@ a {
 
 .tyler {
 	font-family: "Lucida Sans Unicode", monospace;
-	font-size: 1.13em;
+	
 
 }
 
-.hola { font-size: 1.11em;
+.hola { 
 	font-family: verdana; 
 	margin-bottom: 50px
 	}
