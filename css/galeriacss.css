@@ -1,0 +1,42 @@
+/*nada que ver*/
+
+body {
+	background-color: #FFB3E6 ;
+	
+}
+
+.header {
+		padding: auto ;
+		margin: auto ;
+}
+
+.header img {
+	border-width: 3px ;
+	border-style: hidden;
+	border-radius: 8px;
+}
+
+.menu {
+	background-color: #FF85BF;
+	border-radius: 8px;
+	font-family: verdana;
+	overflow: hidden;
+}
+
+a {
+	padding: 14px 20px;
+	text-align: center;
+	float: left ;
+	display: block;
+	text-decoration-line: none;
+	text-decoration-style: solid;
+	text-decoration-color: currentcolor;
+	color: white;
+	border-radius: 8px ;
+}
+
+.menu a:hover {
+
+				background-color: white;
+				color: #FF85BF;
+}
