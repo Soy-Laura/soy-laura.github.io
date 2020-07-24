@@ -3,16 +3,7 @@
 */
 
 @media only screen and (max-width: 600px) {
-	.header {
-		height: 2000px;
-		margin: 0px;
-	}
-	.header img {
-		padding: 0px;
-	}
-	.menu {
-		margin-top: 3px;
-	}
+	
 }
 
 body {
