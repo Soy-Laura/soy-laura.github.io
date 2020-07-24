@@ -2,7 +2,10 @@
 /*color bonito claro #FFEAEE ; color de atras #FFB6C1 body #FFEDF0 #CC66FF
 */
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-width: 800px) {
+	body {
+		background-color: #FFCCE6;
+	}
 	
 }
 
