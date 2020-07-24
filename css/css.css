@@ -7,7 +7,9 @@
 		height: 100px;
 		margin: 0px;
 	}
-
+	.header img {
+		padding: 0px;
+	}
 	.menu {
 		margin-top: 3px;
 	}
