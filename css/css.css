@@ -7,6 +7,10 @@
 		height: 100px;
 		margin: 0px;
 	}
+
+	.menu {
+		margin-top: 3px;
+	}
 }
 
 body {
