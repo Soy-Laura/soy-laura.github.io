@@ -1,6 +1,13 @@
 /*no se por que no se ve nada*/
 /*color bonito claro #FFEAEE ; color de atras #FFB6C1 body #FFEDF0 #CC66FF
 */
+
+@media only screen and (max-width: 600px) {
+	.header {
+		height: 100px;
+	}
+}
+
 body {
 	background-color: #FFB3E6 ;
 	
