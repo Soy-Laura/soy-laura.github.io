@@ -1,4 +1,4 @@
-/*nada que ver*/
+/*No se como hacer lo de la imagen bien asi que ha salido un poco cutre pero no pasa nada*/
 
 body {
 	background-color: #FFB3E6 ;
@@ -40,3 +40,35 @@ a {
 				background-color: white;
 				color: #FF85BF;
 }
+
+div.galeria {
+	border: 1px solid white;
+	width: 232px;
+	float: left;
+	margin: 10px;
+	border-radius: 10px
+}
+
+div.galeria img {
+	margin-top: -14px;
+	width: 232px;
+	height: auto;
+	margin-left: -20px;
+	border-radius: 10px
+
+}
+
+
+div.galeria:hover {
+	border: 1px solid black;
+	border-radius: 10px
+}
+
+.desc {
+	background-color: white ;
+	text-align: center;
+	padding: 15px;
+	border-radius: 10px;
+}
+
+

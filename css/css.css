@@ -66,6 +66,11 @@ a {
 	border-radius: 10px;
 }
 
+.tyler p {
+	padding-right: 30px;
+	padding-left: 30px;
+}
+
 .tyler {
 	font-family: "Lucida Sans Unicode", monospace;
 	
