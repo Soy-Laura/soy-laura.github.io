@@ -23,7 +23,7 @@ body {
 	overflow: hidden;
 }
 
-a {
+.menu a {
 	padding: 14px 20px;
 	text-align: center;
 	float: left ;
@@ -44,24 +44,22 @@ a {
 div.galeria {
 	border: 1px solid white;
 	width: 232px;
+	height: 250px;
 	float: left;
 	margin: 10px;
-	border-radius: 10px
+	border-radius: 10px;
 }
 
 div.galeria img {
-	margin-top: -14px;
-	width: 232px;
-	height: auto;
-	margin-left: -20px;
-	border-radius: 10px
-
+	width: 100%;
+	height: 79%;
+	border-radius: 10px;
 }
 
 
 div.galeria:hover {
 	border: 1px solid black;
-	border-radius: 10px
+	border-radius: 10px;
 }
 
 .desc {
@@ -69,6 +67,10 @@ div.galeria:hover {
 	text-align: center;
 	padding: 15px;
 	border-radius: 10px;
+	font-family: 'Hind Madurai', sans-serif;
 }
+
+
+
 
 
