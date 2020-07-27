@@ -28,7 +28,7 @@ body {
 	overflow: hidden;
 }
 
-a {
+.menu a {
 	padding: 14px 20px;
 	text-align: center;
 	float: left ;
@@ -50,7 +50,7 @@ a {
 			border-style: solid ; 
 			border-width: 6px;
 			border-color:  #FF85BF ;
-			border-radius: 10px ;
+			border-radius: 12px ;
 
 			margin: 70px;
 			background-color: white ;
@@ -63,7 +63,7 @@ a {
 	border-width: 5px ;
 	border-style: solid ;
 	border-color: #FF85BF ;
-	border-radius: 10px;
+	border-radius: 12px;
 }
 
 .tyler p {
