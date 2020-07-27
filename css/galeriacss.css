@@ -47,8 +47,8 @@ div.galeria {
 	width: 232px;
 	height: 250px;
 	float: left;
-	margin: 10px;
 	border-radius: 10px;
+	margin: 10px;
 }
 
 div.galeria img {
@@ -71,7 +71,26 @@ div.galeria:hover {
 	font-family: 'Hind Madurai', sans-serif;
 }
 
+.clear {
+	clear: both;
+}
 
+footer {
+	display: block;
+	background-color: white;
+	text-align: center;
+	border-width: 5px;
+	border-radius: 50px;
+	border-color: #FF85BF;
+	border-style: solid;
+	padding: 4px;
+	margin-top: 70px;
+}
+
+footer p {
+	color: #FF1AFF;
+	font-family: verdana;
+}
 
 
 

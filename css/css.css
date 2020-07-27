@@ -98,7 +98,6 @@ footer {
 	border-style: solid;
 	padding: 4px;
 	
-	margin: center;
 }
 
 footer p {
@@ -106,12 +105,6 @@ footer p {
 	font-family: verdana;
 }
 
-@media only screen and (max-width: 600px) {
-
-
-
-	
-}
 
 
 
