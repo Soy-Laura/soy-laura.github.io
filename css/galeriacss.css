@@ -63,6 +63,13 @@ div.galeria:hover {
 	border-radius: 10px;
 }
 
+div.galeria a {
+	text-decoration-line: none;
+	text-decoration-style: solid;
+	text-decoration-color: currentcolor;
+	color: black;
+}
+
 .desc {
 	background-color: white ;
 	text-align: center;
