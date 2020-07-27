@@ -1,5 +1,6 @@
 /*No se como hacer lo de la imagen bien asi que ha salido un poco cutre pero no pasa nada*/
 
+/*#B3F9FF*/
 body {
 	background-color: #FFB3E6 ;
 	
@@ -58,7 +59,7 @@ div.galeria img {
 
 
 div.galeria:hover {
-	border: 1px solid black;
+	border: 1px solid #1a8cff;
 	border-radius: 10px;
 }
 
