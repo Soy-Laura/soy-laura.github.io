@@ -44,17 +44,18 @@ body {
 
 div.galeria {
 	border: 1px solid white;
-	width: 232px;
-	height: 250px;
+	width: auto;
+	height: auto;
 	float: left;
 	border-radius: 10px;
 	margin: 10px;
 }
 
 div.galeria img {
-	width: 100%;
-	height: 79%;
 	border-radius: 10px;
+	height: 250px;
+	width: 250px;
+
 }
 
 
