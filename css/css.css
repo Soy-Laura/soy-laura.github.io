@@ -7,12 +7,12 @@
 
 body {
 	background-color: #FFB3E6 ;
-	
+
 }
 
 .header {
 		padding: auto ;
-		margin: auto ;
+		margin-bottom: 5px ;
 }
 
 .header img {
@@ -47,7 +47,7 @@ body {
 }
 
 .contenedor {
-			border-style: solid ; 
+			border-style: solid ;
 			border-width: 6px;
 			border-color:  #FF85BF ;
 			border-radius: 12px ;
@@ -58,8 +58,8 @@ body {
 			padding-top: 10px;
 			padding-bottom: 20px;
 			}
-		
-#tylerim {	
+
+#tylerim {
 	border-width: 5px ;
 	border-style: solid ;
 	border-color: #FF85BF ;
@@ -73,12 +73,12 @@ body {
 
 .tyler {
 	font-family: "Lucida Sans Unicode", monospace;
-	
+
 
 }
 
-.hola { 
-	font-family: verdana; 
+.hola {
+	font-family: verdana;
 	margin-bottom: 50px
 	}
 
@@ -97,15 +97,10 @@ footer {
 	border-color: #FF85BF;
 	border-style: solid;
 	padding: 4px;
-	
+
 }
 
 footer p {
 	color: #FF1AFF;
 	font-family: verdana;
 }
-
-
-
-
-

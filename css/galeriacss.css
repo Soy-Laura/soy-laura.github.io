@@ -3,12 +3,12 @@
 /*#B3F9FF*/
 body {
 	background-color: #FFB3E6 ;
-	
+
 }
 
 .header {
 		padding: auto ;
-		margin: auto ;
+		margin-bottom: 5px ;
 }
 
 .header img {
@@ -78,6 +78,19 @@ div.galeria a {
 	font-family: 'Hind Madurai', sans-serif;
 }
 
+.contenedor {
+			border-style: solid ;
+			border-width: 6px;
+			border-color:  #FF85BF ;
+			border-radius: 12px ;
+
+			margin: 70px;
+			background-color: white ;
+			text-align: center ;
+			padding-top: 10px;
+			padding-bottom: 20px;
+			}
+
 .clear {
 	clear: both;
 }
@@ -98,6 +111,3 @@ footer p {
 	color: #FF1AFF;
 	font-family: verdana;
 }
-
-
-
