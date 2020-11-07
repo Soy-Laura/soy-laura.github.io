@@ -52,7 +52,11 @@ body {
 			border-color:  #FF85BF ;
 			border-radius: 12px ;
 
-			margin: 70px;
+			/*margin: 70px;*/
+			margin-top: 70px ;
+			margin-bottom: 70px;
+			margin-left: 150px;
+			margin-right: 150px;
 			background-color: white ;
 			text-align: center ;
 			padding-top: 10px;
